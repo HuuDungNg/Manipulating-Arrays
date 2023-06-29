@@ -1,4 +1,4 @@
-# Manipulating-Arrays with some option
+# Manipulating-Arrays
 'c' - CreateArray
 'p' - PrintArray
 'i' - AddamembertoendoftheArray
